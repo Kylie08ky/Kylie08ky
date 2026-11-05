@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-labelledby="title">
+<title id="title">Hi, I'm Kylie08ky</title>
+<defs><linearGradient id="blue"><stop stop-color="#70b6c4"/><stop offset="1" stop-color="#7d94e6"/></linearGradient></defs>
+<text x="450" y="68" text-anchor="middle" fill="url(#blue)" font-size="39" font-family="Consolas,Menlo,monospace">Hi, I'm Kylie08ky</text>
+</svg>
