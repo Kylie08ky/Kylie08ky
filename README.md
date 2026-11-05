@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hello.svg" alt="Hi, I'm Kylie08ky" width="760" />
+  <img src="assets/hello.svg" alt="Hi, I'm Kylie" width="760" />
 </p>
 
 <p align="center"><strong>🎓 M.Sc. student in Electromobility</strong></p>
