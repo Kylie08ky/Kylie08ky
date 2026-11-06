@@ -32,14 +32,16 @@ My background also includes computer vision, robotics perception, sensor fusion,
 
 ## 🚀 Selected Projects
 
-| Project | What it explores |
-| :--- | :--- |
-| 🗓️ **[Daily in Order](https://github.com/Kylie08ky/daily-in-order)** | Tasks, focus sessions, and project progress in a multilingual personal workspace. |
-| 🧩 **[Collect to Knowledge](https://github.com/Kylie08ky/collect-to-knowledge)** | An AI assistant skill for turning saved content into sourced knowledge and practical next steps. |
-| 💬 **[Topic Language Learning](https://github.com/Kylie08ky/topic-language-learning)** | An AI assistant skill for exploring natural expressions through topics and personal associations. |
-| 🔎 **[Paris Travel RAG](https://github.com/Kylie08ky/dify-knowledge-base-demo)** | Source-grounded travel FAQs, citations, answer boundaries, and a documented evaluation set. |
-| ⚙️ **[E/E Toolchain Demo](https://github.com/Kylie08ky/ee-toolchain-demo)** | Simulated engineering data validation, signal impact analysis, and release comparison. |
-| 👁️ **[Pedestrian Crossing Recognition](https://github.com/Kylie08ky/Pedestrian-crossing-intention-prediction-for-autonomous-driving-scenarios)** | A pipeline combining detection, tracking, pose estimation, and behavior classification. |
+| Project | Focus | Status |
+| :--- | :--- | :--- |
+| ✈️ **[AI Travel Planner Agent](https://github.com/Kylie08ky/ai-travel-planner-agent)** | Editable itineraries with sourced place data, deterministic scheduling, rule validation, and optional local LLMs. | In active development |
+| 🔬 **[LLM Hallucination Detection](https://github.com/Kylie08ky/llm-hallucination-detection)** | Structured tool-call validation, multi-signal risk fusion, selective LLM judging, and experimental analysis. | Research prototype |
+| 🤖 **[ROS 2 Perception & Manipulation](https://github.com/Kylie08ky/ros2-perception-manipulation)** | Team robotics pipeline; my focus was YOLOv8 object detection and camera–LiDAR localization. | Team lab project |
+| 🗓️ **[Daily in Order](https://github.com/Kylie08ky/daily-in-order)** | Tasks, focus sessions, and project progress in a multilingual personal workspace. | Personal application |
+| ⚙️ **[E/E Toolchain Demo](https://github.com/Kylie08ky/ee-toolchain-demo)** | Simulated engineering data validation, signal impact analysis, and release comparison. | Engineering demo |
+| 👁️ **[Pedestrian Crossing Recognition](https://github.com/Kylie08ky/Pedestrian-crossing-intention-prediction-for-autonomous-driving-scenarios)** | A pipeline combining detection, tracking, pose estimation, and behavior classification. | Computer vision project |
+
+**More explorations:** [Paris Travel RAG](https://github.com/Kylie08ky/dify-knowledge-base-demo) · [Collect to Knowledge](https://github.com/Kylie08ky/collect-to-knowledge) · [Topic Language Learning](https://github.com/Kylie08ky/topic-language-learning)
 
 ---
 
@@ -63,7 +65,7 @@ Python · PyTorch · OpenCV · YOLOv8 · Ollama · LLM evaluation
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42" />
 </p>
 
-TypeScript · JavaScript · Lit Web Components · SQLite · Data visualization
+TypeScript · JavaScript · React · FastAPI · Lit Web Components · SQLite
 
 **Development Workflow**
 
@@ -73,7 +75,7 @@ TypeScript · JavaScript · Lit Web Components · SQLite · Data visualization
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="42" height="42" />
 </p>
 
-Git · Vitest · Azure · Software testing · CI/CD
+Git · pytest · Vitest · Docker · Azure · CI/CD
 
 **Engineering background:** ROS2 · Camera–LiDAR fusion · Perception pipelines
 
