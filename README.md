@@ -35,13 +35,13 @@ My background also includes computer vision, robotics perception, sensor fusion,
 | Project | Focus | Status |
 | :--- | :--- | :--- |
 | ✈️ **[AI Travel Planner Agent](https://github.com/Kylie08ky/ai-travel-planner-agent)** | Editable itineraries with sourced place data, deterministic scheduling, rule validation, and optional local LLMs. | In active development |
+| 🧭 **[Career Agent · Nextstep](https://github.com/Kylie08ky/career-agent-showcase)** | Personal evidence, job requirements, career-route comparison, and actionable learning plans. | Public overview · private implementation |
 | 🔬 **[Literature research and development of a concept for avoiding hallucinations in large language models](https://github.com/Kylie08ky/llm-hallucination-detection)** | Structured tool-call validation, multi-signal risk fusion, selective LLM judging, and experimental analysis. | Research prototype |
 | 🤖 **[ROS lab: Autonomous SLAM, Object Detection, and Manipulation with TurtleBot3](https://github.com/Kylie08ky/ros2-perception-manipulation)** | Team robotics pipeline; my focus was YOLOv8 object detection and camera–LiDAR localization. | Team lab project |
-| 🗓️ **[Daily in Order](https://github.com/Kylie08ky/daily-in-order)** | Tasks, focus sessions, and project progress in a multilingual personal workspace. | Personal application |
-| ⚙️ **[E/E Toolchain Demo](https://github.com/Kylie08ky/ee-toolchain-demo)** | Simulated engineering data validation, signal impact analysis, and release comparison. | Engineering demo |
 | 👁️ **[Pedestrian Crossing Recognition](https://github.com/Kylie08ky/Pedestrian-crossing-intention-prediction-for-autonomous-driving-scenarios)** | A pipeline combining detection, tracking, pose estimation, and behavior classification. | Computer vision project |
+| 🗓️ **[Daily in Order](https://github.com/Kylie08ky/daily-in-order)** | Tasks, focus sessions, and project progress in a multilingual personal workspace. | Personal application |
 
-**More explorations:** [Paris Travel RAG](https://github.com/Kylie08ky/dify-knowledge-base-demo) · [Collect to Knowledge](https://github.com/Kylie08ky/collect-to-knowledge) · [Topic Language Learning](https://github.com/Kylie08ky/topic-language-learning)
+**More explorations:** [E/E Toolchain Demo](https://github.com/Kylie08ky/ee-toolchain-demo) · [Paris Travel RAG](https://github.com/Kylie08ky/dify-knowledge-base-demo) · [Collect to Knowledge](https://github.com/Kylie08ky/collect-to-knowledge) · [Topic Language Learning](https://github.com/Kylie08ky/topic-language-learning)
 
 ---
 
