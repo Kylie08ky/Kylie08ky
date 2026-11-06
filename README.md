@@ -41,43 +41,54 @@ My background also includes computer vision, robotics perception, sensor fusion,
 | 👁️ **[Pedestrian Crossing Recognition](https://github.com/Kylie08ky/Pedestrian-crossing-intention-prediction-for-autonomous-driving-scenarios)** | A pipeline combining detection, tracking, pose estimation, and behavior classification. | Computer vision project |
 | 🗓️ **[Daily in Order](https://github.com/Kylie08ky/daily-in-order)** | Tasks, focus sessions, and project progress in a multilingual personal workspace. | Personal application |
 
-**More explorations:** [E/E Toolchain Demo](https://github.com/Kylie08ky/ee-toolchain-demo) · [Paris Travel RAG](https://github.com/Kylie08ky/dify-knowledge-base-demo) · [Collect to Knowledge](https://github.com/Kylie08ky/collect-to-knowledge) · [Topic Language Learning](https://github.com/Kylie08ky/topic-language-learning)
+**More explorations:** [E/E Toolchain Demo](https://github.com/Kylie08ky/ee-toolchain-demo) · [Paris Travel RAG](https://github.com/Kylie08ky/dify-knowledge-base-demo)
+
+---
+
+## 🧩 AI Skills
+
+### [Kylie Skills — my AI workflow collection →](https://github.com/Kylie08ky/kylie-skills)
+
+Reusable workflows for turning saved ideas into action and learning through curiosity. Each skill includes its instructions, examples, and supporting files.
+
+- 📚 **[Collect to Knowledge](https://github.com/Kylie08ky/kylie-skills/tree/main/collect-to-knowledge)** — sourced knowledge cards, practical next steps, and optional Notion filing.
+- 💬 **[Topic Language Learning](https://github.com/Kylie08ky/kylie-skills/tree/main/topic-language-learning)** — natural expressions, reusable phrases, and topic-based exploration.
 
 ---
 
 ## 👩‍💻 Skills & Tools
 
-**AI & Machine Learning**
+<p align="center"><em>Technologies across my projects and engineering work</em></p>
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/opencv/opencv-original.svg" alt="OpenCV" width="42" height="42" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/opencv/opencv-original.svg" alt="OpenCV" title="OpenCV" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" alt="pandas" title="pandas" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="42" height="42" />
+  <br /><br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" title="Matplotlib" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg" alt="Azure" title="Azure" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" alt="pytest" title="pytest" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="42" height="42" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/ros/ros-original.svg" alt="ROS" title="ROS" width="42" height="42" />
 </p>
 
-Python · PyTorch · OpenCV · YOLOv8 · Ollama · LLM evaluation
-
-**Software & Data**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/sqlite/sqlite-original.svg" alt="SQLite" width="42" height="42" />
-</p>
-
-TypeScript · JavaScript · React · FastAPI · Lit Web Components · SQLite
-
-**Development Workflow**
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/git/git-original.svg" alt="Git" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/vitest/vitest-original.svg" alt="Vitest" width="42" height="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/azure/azure-original.svg" alt="Azure" width="42" height="42" />
-</p>
-
-Git · pytest · Vitest · Docker · Azure · CI/CD
-
-**Engineering background:** ROS2 · Camera–LiDAR fusion · Perception pipelines
+<p align="center">YOLOv8 · Ollama · RAG · LLM evaluation · Agent workflows<br />ROS 2 · Camera–LiDAR fusion · Lit Web Components · CI/CD</p>
 
 ---
 
